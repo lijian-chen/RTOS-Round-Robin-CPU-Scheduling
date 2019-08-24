@@ -7,7 +7,7 @@
 /*
  * Compilation: gcc rrcpusched.c -o rrcpusched -pthread -lrt
 
- * The prog_1 will generate a file called "output.txt" which contained the 
+ * The rrcpusched.c will generate a file called "output.txt" which contained the 
  *     average waiting time and average turnaround time.
  */
 
